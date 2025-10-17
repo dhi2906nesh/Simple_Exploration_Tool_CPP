@@ -1,0 +1,26 @@
+[
+{
+  "directory": "C:/Self_Improvements/Projects/Simple_Exploration/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/loop_visualizer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\loop_visualizer.dir\\src\\main.cpp.obj -c C:\\Self_Improvements\\Projects\\Simple_Exploration\\src\\main.cpp",
+  "file": "C:/Self_Improvements/Projects/Simple_Exploration/src/main.cpp",
+  "output": "CMakeFiles/loop_visualizer.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Self_Improvements/Projects/Simple_Exploration/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/loop_visualizer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\loop_visualizer.dir\\src\\Parser.cpp.obj -c C:\\Self_Improvements\\Projects\\Simple_Exploration\\src\\Parser.cpp",
+  "file": "C:/Self_Improvements/Projects/Simple_Exploration/src/Parser.cpp",
+  "output": "CMakeFiles/loop_visualizer.dir/src/Parser.cpp.obj"
+},
+{
+  "directory": "C:/Self_Improvements/Projects/Simple_Exploration/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/loop_visualizer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\loop_visualizer.dir\\src\\Visualizer.cpp.obj -c C:\\Self_Improvements\\Projects\\Simple_Exploration\\src\\Visualizer.cpp",
+  "file": "C:/Self_Improvements/Projects/Simple_Exploration/src/Visualizer.cpp",
+  "output": "CMakeFiles/loop_visualizer.dir/src/Visualizer.cpp.obj"
+},
+{
+  "directory": "C:/Self_Improvements/Projects/Simple_Exploration/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/loop_visualizer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\loop_visualizer.dir\\src\\Utils.cpp.obj -c C:\\Self_Improvements\\Projects\\Simple_Exploration\\src\\Utils.cpp",
+  "file": "C:/Self_Improvements/Projects/Simple_Exploration/src/Utils.cpp",
+  "output": "CMakeFiles/loop_visualizer.dir/src/Utils.cpp.obj"
+}
+]
